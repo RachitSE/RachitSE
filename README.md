@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachitse" alt="rachitse" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rachitse.github.io/Portfolio/](https://rachitse.github.io/Portfolio/)
 
 - 💬 Ask me about **python, javascript libraries, front-end queries**
 
