@@ -8,8 +8,6 @@
 
 - 📫 Reach me at: **fingdev@protonmail.com**
 
-- ⚡ Fun fact **My ex is Chat-GPT**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/27052398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27052398" height="30" width="40" /></a>
