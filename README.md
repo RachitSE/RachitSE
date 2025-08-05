@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rachit.</h1>
-<h3 align="center">A passionate frontend developer from India and currently aspiring to learn more into the world of Softwares.</h3>
+<h3 align="center">A passionate fullstack developer from India and currently aspiring to learn more into the world of Softwares.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachitse" alt="rachitse" /></a> </p>
 
